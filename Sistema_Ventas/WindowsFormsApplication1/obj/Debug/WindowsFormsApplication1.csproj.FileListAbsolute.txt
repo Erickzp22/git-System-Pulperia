@@ -1,0 +1,74 @@
+C:\Users\roberth\Desktop\Sistema_Ventas\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\roberth\Desktop\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\roberth\Desktop\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git ProyectoFinal\Sistema_Ventas\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git ProyectoFinal\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git ProyectoFinal\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git ProyectoFinal\Sistema_Ventas\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git ProyectoFinal\Sistema_Ventas\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git ProyectoFinal\Sistema_Ventas\WindowsFormsApplication1\bin\Debug\Business_Logic.dll
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git ProyectoFinal\Sistema_Ventas\WindowsFormsApplication1\bin\Debug\DataAcesss.dll
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git ProyectoFinal\Sistema_Ventas\WindowsFormsApplication1\bin\Debug\Business_Logic.pdb
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git ProyectoFinal\Sistema_Ventas\WindowsFormsApplication1\bin\Debug\DataAcesss.pdb
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git ProyectoFinal\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git ProyectoFinal\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Abrir.resources
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git ProyectoFinal\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Adminitracion.resources
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git ProyectoFinal\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Cierre.resources
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git ProyectoFinal\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git ProyectoFinal\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git ProyectoFinal\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git ProyectoFinal\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Retiro_Efectivo.resources
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git ProyectoFinal\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ventas.resources
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git ProyectoFinal\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Pulperia vera Cruz\Sistema_Ventas\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Pulperia vera Cruz\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Pulperia vera Cruz\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+<<<<<<< HEAD
+C:\Users\roberth\Documents\GitHub\SistemaVentas\Sistema_Ventas\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\roberth\Documents\GitHub\SistemaVentas\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\roberth\Documents\GitHub\SistemaVentas\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\roberth\Documents\GitHub\SistemaVentas\Sistema_Ventas\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\roberth\Documents\GitHub\SistemaVentas\Sistema_Ventas\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\roberth\Documents\GitHub\SistemaVentas\Sistema_Ventas\WindowsFormsApplication1\bin\Debug\Business_Logic.dll
+C:\Users\roberth\Documents\GitHub\SistemaVentas\Sistema_Ventas\WindowsFormsApplication1\bin\Debug\DataAcesss.dll
+C:\Users\roberth\Documents\GitHub\SistemaVentas\Sistema_Ventas\WindowsFormsApplication1\bin\Debug\Business_Logic.pdb
+C:\Users\roberth\Documents\GitHub\SistemaVentas\Sistema_Ventas\WindowsFormsApplication1\bin\Debug\DataAcesss.pdb
+C:\Users\roberth\Documents\GitHub\SistemaVentas\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\roberth\Documents\GitHub\SistemaVentas\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Abrir.resources
+C:\Users\roberth\Documents\GitHub\SistemaVentas\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Adminitracion.resources
+C:\Users\roberth\Documents\GitHub\SistemaVentas\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Cierre.resources
+C:\Users\roberth\Documents\GitHub\SistemaVentas\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\roberth\Documents\GitHub\SistemaVentas\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\roberth\Documents\GitHub\SistemaVentas\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\roberth\Documents\GitHub\SistemaVentas\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Retiro_Efectivo.resources
+C:\Users\roberth\Documents\GitHub\SistemaVentas\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ventas.resources
+C:\Users\roberth\Documents\GitHub\SistemaVentas\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\roberth\Documents\GitHub\SistemaVentas\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Monto_a_Pagar.resources
+=======
+C:\Users\bitro\Documents\GitHub\SistemaVentas\Sistema_Ventas\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\bitro\Documents\GitHub\SistemaVentas\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\bitro\Documents\GitHub\SistemaVentas\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+>>>>>>> 82188020ca8fe5d61919481dd0c6cd03f0685ed6
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\VeraCruz-Git\Sistema_Ventas\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\VeraCruz-Git\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\VeraCruz-Git\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\VeraCruz-Git\Sistema_Ventas\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\VeraCruz-Git\Sistema_Ventas\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\VeraCruz-Git\Sistema_Ventas\WindowsFormsApplication1\bin\Debug\Business_Logic.dll
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\VeraCruz-Git\Sistema_Ventas\WindowsFormsApplication1\bin\Debug\DataAcesss.dll
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\VeraCruz-Git\Sistema_Ventas\WindowsFormsApplication1\bin\Debug\Business_Logic.pdb
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\VeraCruz-Git\Sistema_Ventas\WindowsFormsApplication1\bin\Debug\DataAcesss.pdb
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\VeraCruz-Git\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\VeraCruz-Git\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Abrir.resources
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\VeraCruz-Git\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Adminitracion.resources
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\VeraCruz-Git\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Cierre.resources
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\VeraCruz-Git\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\VeraCruz-Git\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\VeraCruz-Git\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Monto_a_Pagar.resources
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\VeraCruz-Git\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\VeraCruz-Git\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Retiro_Efectivo.resources
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\VeraCruz-Git\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Ventas.resources
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\VeraCruz-Git\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git Vera-Crus-System\Sistema_Ventas\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git Vera-Crus-System\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\Git Vera-Crus-System\Sistema_Ventas\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
