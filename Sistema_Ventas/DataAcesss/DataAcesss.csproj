@@ -40,8 +40,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DA\DA_CRUD.cs" />
-    <Compile Include="Objetos\Perfil.cs" />
-    <Compile Include="Objetos\Usuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />

@@ -40,6 +40,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BL\BL_CRUD.cs" />
+    <Compile Include="Objetos\Perfil.cs" />
+    <Compile Include="Objetos\Usuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

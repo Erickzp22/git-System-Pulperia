@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataAcesss.Objetos
+namespace Business_Logic.Objetos
 {
     class Perfil
     {

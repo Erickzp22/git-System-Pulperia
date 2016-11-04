@@ -1,4 +1,10 @@
-﻿namespace DataAcesss.Objetos
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Business_Logic.Objetos
 {
     class Usuario
     {
@@ -8,6 +14,5 @@
 
         Perfil Perfil = new Perfil();
         public int Estado { get; set; }
-
     }
 }
