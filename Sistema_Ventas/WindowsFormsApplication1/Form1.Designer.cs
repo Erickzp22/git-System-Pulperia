@@ -205,9 +205,9 @@
             // lbl_Fecha
             // 
             this.lbl_Fecha.AutoSize = true;
-            this.lbl_Fecha.BackColor = System.Drawing.SystemColors.Highlight;
+            this.lbl_Fecha.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.lbl_Fecha.Font = new System.Drawing.Font("Modern No. 20", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_Fecha.Location = new System.Drawing.Point(1081, 573);
+            this.lbl_Fecha.Location = new System.Drawing.Point(1095, 529);
             this.lbl_Fecha.Name = "lbl_Fecha";
             this.lbl_Fecha.Size = new System.Drawing.Size(68, 21);
             this.lbl_Fecha.TabIndex = 9;

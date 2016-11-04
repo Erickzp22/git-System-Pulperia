@@ -20,3 +20,10 @@ C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Fina
 C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\VeraCruz-Git\Sistema_Ventas\Business_Logic\obj\Debug\Business_Logic.csprojResolveAssemblyReference.cache
 C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\VeraCruz-Git\Sistema_Ventas\Business_Logic\obj\Debug\Business_Logic.dll
 C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\VeraCruz-Git\Sistema_Ventas\Business_Logic\obj\Debug\Business_Logic.pdb
+C:\Users\bitro\Documents\GitHub\git-System-Pulperia\Sistema_Ventas\Business_Logic\bin\Debug\Business_Logic.dll
+C:\Users\bitro\Documents\GitHub\git-System-Pulperia\Sistema_Ventas\Business_Logic\bin\Debug\Business_Logic.pdb
+C:\Users\bitro\Documents\GitHub\git-System-Pulperia\Sistema_Ventas\Business_Logic\bin\Debug\DataAcesss.dll
+C:\Users\bitro\Documents\GitHub\git-System-Pulperia\Sistema_Ventas\Business_Logic\bin\Debug\DataAcesss.pdb
+C:\Users\bitro\Documents\GitHub\git-System-Pulperia\Sistema_Ventas\Business_Logic\obj\Debug\Business_Logic.csprojResolveAssemblyReference.cache
+C:\Users\bitro\Documents\GitHub\git-System-Pulperia\Sistema_Ventas\Business_Logic\obj\Debug\Business_Logic.dll
+C:\Users\bitro\Documents\GitHub\git-System-Pulperia\Sistema_Ventas\Business_Logic\obj\Debug\Business_Logic.pdb
