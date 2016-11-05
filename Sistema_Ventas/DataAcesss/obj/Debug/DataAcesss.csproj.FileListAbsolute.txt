@@ -13,3 +13,8 @@ C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Fina
 C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\VeraCruz-Git\Sistema_Ventas\DataAcesss\obj\Debug\DataAcesss.pdb
 C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\VeraCruz-Git\Sistema_Ventas\DataAcesss\bin\Debug\DataAcesss.dll
 C:\Users\roberth\Desktop\8 cuatrimestre\Desarrollo de Aplicaciones\Proyecto Final\VeraCruz-Git\Sistema_Ventas\DataAcesss\bin\Debug\DataAcesss.pdb
+C:\Users\bitro\Documents\GitHub\git-System-Pulperia\Sistema_Ventas\DataAcesss\bin\Debug\DataAcesss.dll
+C:\Users\bitro\Documents\GitHub\git-System-Pulperia\Sistema_Ventas\DataAcesss\bin\Debug\DataAcesss.pdb
+C:\Users\bitro\Documents\GitHub\git-System-Pulperia\Sistema_Ventas\DataAcesss\obj\Debug\DataAcesss.csprojResolveAssemblyReference.cache
+C:\Users\bitro\Documents\GitHub\git-System-Pulperia\Sistema_Ventas\DataAcesss\obj\Debug\DataAcesss.dll
+C:\Users\bitro\Documents\GitHub\git-System-Pulperia\Sistema_Ventas\DataAcesss\obj\Debug\DataAcesss.pdb
